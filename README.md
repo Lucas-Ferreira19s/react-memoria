@@ -1,6 +1,6 @@
 # jogo da memoria
 
-curso de treinamento react
+Projeto de treinamento react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
