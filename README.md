@@ -7,4 +7,8 @@
 - made with react
 - made with typescript
 
+#### Home
 ![preview img](/preview.png)
+
+#### Game
+![preview img](/preview-play.png)
